@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--LEFT SIDE:Logo + Tagline-->
+<div styl="line-height:1.2;">
+<h2 style="margine:0;font size:24px;
+font-weight:bold;">jacob cheptoyek</h2>
+<small style"font style="font size:14px;
+colour:gray;">inspiring strength.Transforming Lifes.</small>
+</div>
+
+<!--RIGHT SIDE: Navigation Menu-->
+<nav>
+<ul style="list-style:none;
+display:flex;gap:25px;margin:0;
+padding:0;font-size16px;">
+     <li><a href="#"
+style
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>jacobcheptoyek turning life battles into breakthroughs</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #1e3a8a;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #374151;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      padding: 1rem 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .hero {
+      padding: 4rem 2rem;
+      text-align: center;
+      background-color: #e0f2fe;
+    }
+    .hero h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    .hero p {
+      font-size: 1.1rem;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    footer {
+      background-color: #1e293b;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>jacobcheptoyek</h1>
+    <p>Stories & Tutorials from My Journey</p>
+  </header>
+
+  <nav>
+    <a href="#stories">Stories</a>
+    <a href="#tutorials">Tutorials</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section class="hero">
+    <h2>Welcome to jacobcheptoyek.com</h2>
+    <p>
+      Dive into a world of personal stories, practical tutorials, and creative insights. Whether you're here to learn something new or just enjoy a good read, you're in the right place.
+    </p>
+  </section>
+
+  <footer>
+    &copy; 2025 jacobcheptoyek. All rights reserved.
+  </footer>
+</body>
+</html>
